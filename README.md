@@ -1,2 +1,2 @@
 # Girl-with-Arrays
-//solution added//
+//sol added//
